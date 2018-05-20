@@ -39,7 +39,7 @@ F1 或 Ctrl+Shift+P: 打开命令面板。在打开的输入框内，可以输�
 2、Ctrl+C 、 Ctrl+V 复制或剪切当前行/当前选中内容  
 3、代码格式化： Shift+Alt+F，或 Ctrl+Shift+P 后输入 format code  
 4、上下移动一行： Alt+Up 或 Alt+Down  
-5、 向上向下复制一行： Shift+Alt+Up 或 Shift+Alt+Down  
+5、向上向下复制一行： Shift+Alt+Up 或 Shift+Alt+Down  
 6、在当前行下边插入一行 Ctrl+Enter  
 7、在当前行上方插入一行 Ctrl+Shift+Enter  
 ***

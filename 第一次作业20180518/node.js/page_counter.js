@@ -2,7 +2,7 @@ const http = require('http');
 const hostname = '127.0.0.1';
 const port = 3000;
 
-var page_countor = 0; // Ò³Ãæ¼ÆÊıÆ÷
+var page_countor = 0; // Ò³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
